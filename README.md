@@ -2,9 +2,14 @@
 
 <p align="center"><img src="https://i.im.ge/2021/09/16/T6X3aC.png"/></p>
 
-**THIS TOOL PERMIT YOU TO GENERATE CREDIT CARD &amp; VALIDATE !**
+<p align="center">THIS TOOL PERMIT YOU TO GENERATE CREDIT CARD &amp; VALIDATE !</p>
 
-<img src="https://i.im.ge/2021/09/16/T6XiYz.png"/>
+## Install
+```bash
+git clone https://github.com/kyo1337/CCEXTRAP
+cd CCE
+php CCE.php
+```
 
 ## How to Use ?
 run ```CCE.php```
